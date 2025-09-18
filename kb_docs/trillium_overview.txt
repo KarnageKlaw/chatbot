@@ -1,0 +1,1 @@
+Trillium Flows is a workflow automation platform that provides connectors for integrations, orchestration, and analytics. Key features include workflow designer, prebuilt connectors, monitoring dashboard, and enterprise security. Typical integration SLAs and supported platforms are listed in Trillium's documentation.
