@@ -1,0 +1,13 @@
+openai
+faiss-cpu
+numpy
+PyPDF2
+python-dotenv
+tqdm
+requests
+fastapi
+uvicorn
+sendgrid
+sqlalchemy
+pydantic
+streamlit
